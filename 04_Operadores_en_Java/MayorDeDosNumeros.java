@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Mayor_de_dos_numeros {
+public class MayorDeDosNumeros {
     public static void main(String args[]){
         Scanner tilin = new Scanner(System.in);
 

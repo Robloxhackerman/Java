@@ -1,4 +1,4 @@
-public class Ciclo_for_con_labels {
+public class CicloForConLabels {
     public static void main(String[] args) {
         inicio:
         for (int PEPE = 0; PEPE < 3; PEPE++) {

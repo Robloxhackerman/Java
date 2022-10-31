@@ -1,4 +1,4 @@
-public class Ciclo_do_while {
+public class CicloDoWhile {
     public static void main(String[] args) {
         var count = 0;
 

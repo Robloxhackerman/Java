@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Sistema_de_calificaciones {
+public class SistemaDeCalificaciones {
     public static void main(String args[]) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Proporcione un valor entre 0 y 10:");

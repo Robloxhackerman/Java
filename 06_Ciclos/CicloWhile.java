@@ -1,6 +1,6 @@
 import java.lang.reflect.Method;
 
-public class Ciclo_while {
+public class CicloWhile {
     public static void main(String[] args) {
         var count = 0;
 
