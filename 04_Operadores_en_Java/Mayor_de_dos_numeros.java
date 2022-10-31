@@ -1,8 +1,6 @@
-package Tarea1;
-
 import java.util.Scanner;
 
-public class Main {
+public class Mayor_de_dos_numeros {
     public static void main(String args[]){
         Scanner tilin = new Scanner(System.in);
 
@@ -16,7 +14,7 @@ public class Main {
         if (num2 < num1){
             System.out.println("El primero es mayor");
         } else if (num1 < num2) {
-            System.out.println("El segundo es mayo");
+            System.out.println("El segundo es mayor");
         } else if (num1 == num2) {
             System.out.println("son iguales");
         }
